@@ -5,7 +5,7 @@
 
 -  <a href="mailto:gaylelennox@gmail.com"> Send me an email </a>
 
-- 📄 <a href="https://docs.google.com/document/d/19TQaAD4ncU_KNZ0a5BRZ5oLyS4SF1DnBDj8JV6Iry78/edit?usp=sharing"> View my Resume </a>
+- 📄 <a href="https://docs.google.com/document/d/1W0_tPqSsX9PvhZ6HreP4vCKrN23xmkgj92ehGbT0--E/edit?usp=sharing"> View my Resume </a>
 
 - ⚡ **Looking forward to learning more languages and skills!**
 
